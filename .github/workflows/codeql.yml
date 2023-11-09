@@ -82,11 +82,10 @@ jobs:
         category: "/language:${{matrix.language}}"
     # [![CodeQL](https://github.com/chomsin/GitHub-Web-IDE/actions/workflows/codeql.yml/badge.svg?branch=Manager)](https://github.com/chomsin/GitHub-Web-IDE/actions/workflows/codeql.yml)
      # copilot 
-     app: wallet 
+     -  appmobile.
+     run:https://web.budgetbakers.com/login {account number email address}
+     
      name: account and email or outlook mobile wallet money.
      run: action credit to Bank of THB "payment piad transfer loan in out money"
      link: https://web.budgetbakers.com/login
      bank: bank details, account number, tel.
-     run: action 
-     #
-     
