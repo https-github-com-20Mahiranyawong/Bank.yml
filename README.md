@@ -7,6 +7,7 @@
 # Credit/debit or Debts : 4340 7650 0205 9763
 # VAT/GAS: 6GF22300DP1826925
 # TAL. +66637396545
+# "run" action USD to THB
 
 🏧🏦💯
 
