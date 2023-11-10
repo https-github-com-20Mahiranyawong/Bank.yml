@@ -11,7 +11,7 @@
 # or 4788671302639420
 # VAT/GAS: 6GF22300DP1826925
 # TAL. +66637396545
-# "run" action USD to THB
+# "run" action USD,THB
 
 🏧🏦💯
 
